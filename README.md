@@ -1,5 +1,5 @@
 # getemail
-Move your emails from Gmail to Google Sheets
+Move your emails from Gmail Label to Google Sheets
 
 Google Apps Script that enables you to transfer email body from specified label to Google Sheets
 
@@ -10,5 +10,7 @@ For example, our team uses GetEmail to transfer the email body to Google Sheets,
 I saw many people looking for a simple solution like that, and I hope some will find it useful.
 
 To use simply copy the code and paste it to your Gogle Apps Script Editor, then edit accordingly and save.
+
+You can set it up to execute automatically each minute, it works fairly fast and could be a good solution for people receiving for example online orders for items that need to be quickly handled. 
 
 Enjoy working with it and expanding it to suit your needs. Kam
